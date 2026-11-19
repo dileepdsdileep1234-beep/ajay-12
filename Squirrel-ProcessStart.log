@@ -1,0 +1,5 @@
+﻿[29/10/26 13:32:15] info: Program: Starting Squirrel Updater: --processStartAndWait MongoDBCompass.exe
+[29/10/26 13:32:15] info: Program: Want to launch 'C:\Users\cse\AppData\Local\MongoDBCompass\app-1.53.2\MongoDBCompass.exe'
+[29/10/26 13:32:15] info: Program: About to wait for parent PID 28424
+[29/10/26 13:32:17] info: Program: About to launch: 'C:\Users\cse\AppData\Local\MongoDBCompass\app-1.53.2\MongoDBCompass.exe': 
+[29/10/26 13:32:17] info: Program: Finished Squirrel Updater
